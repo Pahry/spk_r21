@@ -1,0 +1,21 @@
+<style type="text/css">
+	ul {
+		list-style: none;
+	}
+	a{
+		font-weight: bold;
+		text-decoration: none;
+		color: white;
+	}
+	li{
+		display: inline;
+		
+		padding: 20px;
+	}
+	li:hover{
+		background-color: #DEE8EE;
+	}
+	.img-responsive { 
+		class applies max-width: 100%, height: auto, and display:block; /*Belum bisa responsive*/
+	}
+</style>
